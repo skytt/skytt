@@ -2,6 +2,7 @@
 
 - A web developer
 - Currently working at Tencent
+- Also available at [my blog](https://krist.li), [掘金](https://juejin.cn/user/2252263855761784)
 
 <!--
 **skytt/skytt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
